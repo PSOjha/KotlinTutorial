@@ -76,7 +76,3 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - also
     - run
 13. Conclusion 
-
-## Authors 
-
-* **Sriyank Siddhartha** 
